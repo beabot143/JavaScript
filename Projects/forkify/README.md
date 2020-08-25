@@ -24,3 +24,6 @@ Jonas Schmedtmann (Web Developer, Designer, and Teacher)
 
 ## Acknowledgments
 This Project is part of the online course *The Complete JavaScript Course 2020: Build Real Projects!* created and taught by Jonas Schmedtmann at Udemy.com. 
+
+## Next Steps
+I would like to improve the parsing section of the script to avoid weird characters appearing in the ingredient section
